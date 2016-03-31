@@ -220,7 +220,7 @@ p{
 	
 .top_left_cont h3{
 	font-size:16px;
-	color:#f56eab;
+	color:#EACA48;
 	margin:0 0 20px 0;
 	text-align:left;
 	font-family:'Lato';
@@ -296,7 +296,7 @@ a.learn_more2:hover{
 	}
 	
 .service_icon{
-	border:2px solid #f56eab;
+	border:2px solid #EACA48;
 	border-radius:50%;
 	width:90px;
 	height:90px;
@@ -312,7 +312,7 @@ a.learn_more2:hover{
 	}
 	
 .service_icon span {
-    background:#f56eab;
+    background:#EACA48;
     border: 3px solid #fff;
     border-radius: 50%;
     display: block;
@@ -362,7 +362,7 @@ a.learn_more2:hover{
 	
 	
 .top_cont_latest{
-	background:url(../img/dashboard_pic.png) no-repeat right bottom;
+	background:url(../img/nzherald.png) no-repeat right bottom;
 }
 	
 .work_pic{
@@ -415,7 +415,7 @@ a.learn_more2:hover{
 	}
 	
 a.contact_btn{
-	background:#f56eab;
+	background:#EACA48;
 	text-transform:uppercase;
 	display:block;
 	width:176px;
@@ -821,7 +821,7 @@ img {
 }
 
 .twitter-feed:hover {
-	background: #f56eab;
+	background: #EACA48;
 }
 
 .twitter-feed p{
@@ -862,10 +862,10 @@ img {
 	padding:90px 0 100px;
 }
 
-.main-section.contact{
-	background:url(../img/bg-map.png) left 190px no-repeat;
-}
-
+/* .main-section.contact{ */
+/* 	background:url(../img/bg-map.png) left 190px no-repeat; */
+/* } */
+/*  */
 
 .contact_section{
 	margin:0 0 60px 0;
@@ -895,7 +895,7 @@ img {
 	border-color:#49b5e7;
 	}
 .contact_block_icon span {
-    background: none repeat scroll 0 0 #f56eab;
+    background: none repeat scroll 0 0 #EACA48;
     border: 5px solid #fff;
     border-radius: 50%;
     display: block;
